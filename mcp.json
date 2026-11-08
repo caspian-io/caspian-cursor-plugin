@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "caspian": {
+      "url": "https://app.getcaspian.io/mcp"
+    }
+  }
+}

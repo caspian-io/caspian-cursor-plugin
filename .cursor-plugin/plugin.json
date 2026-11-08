@@ -1,0 +1,14 @@
+{
+  "name": "caspian",
+  "version": "1.0.0",
+  "description": "Ask about your company's apps, people, access, devices, vendors and spend, and make agreed changes, from your own Caspian workspace.",
+  "author": {
+    "name": "Caspian",
+    "email": "support@getcaspian.io"
+  },
+  "homepage": "https://getcaspian.io",
+  "repository": "https://github.com/caspian-io/caspian-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["it", "security", "saas", "access", "devices", "vendors", "spend", "compliance"],
+  "logo": "assets/logo.svg"
+}
